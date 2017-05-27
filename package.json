@@ -11,7 +11,7 @@
     "react-fontawesome": "^1.6.1",
     "react-tap-event-plugin": "^2.0.1"
   },
-  "homepage": "https://github.com/abinash-kumar/react-app",
+  "homepage": "https://github.com/abinash-kumar/my-app",
   "devDependencies": {
     "gh-pages": "^1.0.0",
     "react-scripts": "1.0.0"
